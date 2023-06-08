@@ -1,0 +1,43 @@
+.ItemList{
+    justify-content: flex-start;
+    display: flex;
+    box-sizing: border-box;
+    display: inline;
+    
+}
+
+
+.ItemList a.titulo{
+    color: #539BF5;
+    font-size: 24px;
+    margin: 20px;    
+    background-color: transparent;
+}
+
+.ItemList span{
+    font-size: 12px;
+    color: #999999;
+    margin: 20px;
+}
+
+.ItemList p{
+    font-size: 24px;
+    margin: 10px;
+    margin-left: 20px;
+    color: #999999;
+}
+.ItemList hr{
+    margin: 24px;
+    height: 0.6px;
+    width: 100%;
+}
+.ItemList a.remover{
+    color: red;
+    margin: 24px;
+    margin-left: 20px;
+}
+.ItemList a.abrir{
+    color: blue;
+    margin: 24px;
+    margin-left: 20px;
+}

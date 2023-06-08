@@ -1,0 +1,16 @@
+*,body{
+    margin: 0;
+    padding: 0;
+    background-color: #161b22;
+
+}
+
+.conteudo{
+    display: flex;
+    justify-content: center;
+    
+}
+.background{
+    position: absolute;
+    height: 100vh;
+}

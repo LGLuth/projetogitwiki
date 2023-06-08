@@ -1,0 +1,14 @@
+.repo-search{
+    box-sizing: border-box;
+    width: 80%;
+    height: 34px;
+    background-color: transparent;
+    border: 1px solid #999999;
+    border-radius: 20px;
+    margin-right: 10px;
+    min-width: 250px;
+    color: #FFFFFF;
+    margin: 10px;
+    text-align: center;
+    
+}

@@ -1,0 +1,20 @@
+*{
+    margin: auto;
+    padding: 0;
+}
+.gitlogo2{
+    background-color: #404246;
+    display: flex;
+    margin: auto auto auto;
+}
+Header{
+    color: white;
+    display: grid;
+    justify-content: center;
+    background-color: #404246;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h3{
+    margin: 10px;
+    background-color: #404246;
+}

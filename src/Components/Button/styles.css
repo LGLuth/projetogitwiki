@@ -1,0 +1,16 @@
+.procurar{
+
+        margin: 10px;
+        width: 89px;
+        height: 34px;
+        background-color: #ffffff4f;
+        border: 1px solid #ffffff;
+        border-radius: 22px;
+        color: #ffffff;
+        margin-right: 12px;
+        font-size: 18px;
+
+}:hover.procurar{
+    background-color: #000000;
+    cursor: pointer;
+}
