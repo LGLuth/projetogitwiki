@@ -1,6 +1,6 @@
 *Projeto DIO GitWIKI*
 
-Primeiro projeto em React, utilizando Axios para consumo de API do GitHub.
+Primeiro projeto em React, utilizando Axios para consumo de API do GitHub.<br/>
 First React project using Axios to consume the GitHub API.
 
 ##  :computer:  Tecnologias usadas:
